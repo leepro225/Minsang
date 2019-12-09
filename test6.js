@@ -8,6 +8,10 @@ All codes cannot be copied without permission.
 수정을 햇어
 // 나도 수정해보자 연습 
 
+<<<<<<< HEAD
+=======
+// 에러나게 해봐야지~~
+>>>>>>> c5ee37edebd6e78626844046db42d0fa719138e8
 
 // 다음 코드의 실행결과를 알려주세요
 (async function() { console.group("1. 순수함수/비순수함수");
