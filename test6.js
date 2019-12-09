@@ -8,6 +8,7 @@ All codes cannot be copied without permission.
 수정을 햇어
 // 나도 수정해보자 연습 
 
+
 // 다음 코드의 실행결과를 알려주세요
 (async function() { console.group("1. 순수함수/비순수함수");
 let state = 'test';
