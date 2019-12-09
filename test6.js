@@ -5,6 +5,8 @@ All source content is property of Moon Hanju.
 All codes cannot be copied without permission.
 */
 
+수정을 햇어
+
 // 다음 코드의 실행결과를 알려주세요
 (async function() { console.group("1. 순수함수/비순수함수");
 let state = 'test';
