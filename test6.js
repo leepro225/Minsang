@@ -4,8 +4,9 @@ All rights reserved.
 All source content is property of Moon Hanju.
 All codes cannot be copied without permission.
 */
+// thisIsNewMerge
 
-수정을 햇어
+//수정을 햇어
 // 나도 수정해보자 연습 
 
 <<<<<<< HEAD
