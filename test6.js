@@ -7,7 +7,7 @@ All codes cannot be copied without permission.
 // thisIsNewMerge
 */난 김민상이야
 
-//수정을 햇어
+//수정을 햇어222222
 // 나도 수정해보자 연습 
 
 // 다음 코드의 실행결과를 알려주세요
